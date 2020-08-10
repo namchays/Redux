@@ -1,0 +1,11 @@
+add bootstrap, jquery, font awesome:
+font awesome 4.7.0
+bootstrap 3.3.7
+jquery.min.js
+
+<link rel="stylesheet" href="%PUBLIC_URL%/css/bootstrap.min.js"></link>
+<link rel="stylesheet" href="%PUBLIC_URL%/css/font-awesome.min.css"></link>
+
+
+<script  href="%PUBLIC_URL%/js/bootstrap.min.js"></script>
+<script  href="%PUBLIC_URL%/js/jquery-3.5.1.min.js"></script>
